@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="textSizeArray">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+
+    </string-array>
+
+
+</resources>
